@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Log and output files
+*.log
+outputs/
+
+# Large model files
+pretrained_models/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
